@@ -1,0 +1,9 @@
+Django~=3.0.0
+psycopg2
+crypto
+requests
+xmltodict
+itsdangerous
+pycryptodome
+Pillow
+six
